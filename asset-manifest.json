@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ccc5ae1.chunk.css",
-    "main.js": "/static/js/main.3dae83b0.chunk.js",
-    "main.js.map": "/static/js/main.3dae83b0.chunk.js.map",
+    "main.css": "/static/css/main.5b63839a.chunk.css",
+    "main.js": "/static/js/main.fd0af65b.chunk.js",
+    "main.js.map": "/static/js/main.fd0af65b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.decb7099.js",
     "runtime-main.js.map": "/static/js/runtime-main.decb7099.js.map",
     "static/js/2.4ee12cc8.chunk.js": "/static/js/2.4ee12cc8.chunk.js",
     "static/js/2.4ee12cc8.chunk.js.map": "/static/js/2.4ee12cc8.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9ccc5ae1.chunk.css.map": "/static/css/main.9ccc5ae1.chunk.css.map",
+    "static/css/main.5b63839a.chunk.css.map": "/static/css/main.5b63839a.chunk.css.map",
     "static/js/2.4ee12cc8.chunk.js.LICENSE.txt": "/static/js/2.4ee12cc8.chunk.js.LICENSE.txt",
     "static/media/ExpenseTracker.5f7e87f0.png": "/static/media/ExpenseTracker.5f7e87f0.png",
     "static/media/RANK.0e28912a.png": "/static/media/RANK.0e28912a.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.decb7099.js",
     "static/js/2.4ee12cc8.chunk.js",
-    "static/css/main.9ccc5ae1.chunk.css",
-    "static/js/main.3dae83b0.chunk.js"
+    "static/css/main.5b63839a.chunk.css",
+    "static/js/main.fd0af65b.chunk.js"
   ]
 }
