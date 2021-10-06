@@ -14,7 +14,7 @@
     align-items: center;
   }
   .content {
-    width: 50%;
+    width: 100%;
     @include media(">=phone", "<lgphone") {
       width: 100%;
     }
@@ -27,9 +27,21 @@
 
     h1 {
       font-size: 3rem;
+      text-align: center;
       line-height: 20px;
+
+      @include media(">=phone", "<lgphone") {
+        font-size: 1.5rem;
+        line-height: 10px;
+      }
+
+      @include media(">=lgphone", "<tablet") {
+        font-size: 1.5rem;
+        line-height: 10px;
+      }
+
       @include media(">=tablet", "<desktop") {
-        text-align: center;
+        font-size: 2.5rem;
       }
     }
     p {
@@ -38,20 +50,5 @@
       }
     }
   }
-  .image-wrapper {
-    width: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    @include media(">=phone", "<lgphone") {
-      width: 100%;
-    }
-    @include media(">=lgphone", "<tablet") {
-      width: 100%;
-    }
-    @include media(">=tablet", "<desktop") {
-      width: 100%;
-    }
-  }
+  
 }

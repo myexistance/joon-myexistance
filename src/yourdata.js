@@ -35,60 +35,39 @@ export default {
         "Public toilet finder to help those who are in the urgent.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://myexistance.github.io/joon-myexistance/static/media/RANK.0e28912a.png",
+        "https://github.com/myexistance/joon-myexistance/blob/main/src/img/RANK.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://rank2021.herokuapp.com/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Expense Tracker", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "React, Context API", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://github.com/myexistance/joon-myexistance/blob/main/src/img/ExpenseTracker.png?raw=true",
       //Project URL - Add Your Project Url Here
-      url: "",
+      url: "https://myexistance.github.io/react-expense-tracker/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Coffee Finder", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://github.com/myexistance/CoffeeFinderFinal/blob/master/images/coffee-pattern-desktop.png?raw=true",
       //Project URL - Add Your Project Url Here
-      url: "",
+      url: "https://myexistance.github.io/CoffeeFinderFinal/",
     },
-    {
-      title: "Project Four", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "",
-    },
-
-    /*
-    If You Want To Add More Project just Copy and Paste This At The End
-    ,{
-        title: 'Project Five',
-        para: 'Something Amazing',
-        imageSrc: "",
-        url: ''
-    }
-    */
   ],
 
   // End Work Section -----------------------
 
   // About Secton --------------
   aboutParaOne:
-    "Born in Korean and bred in New Zealand. I am interested in JAM-stack. I enjoy building apps simple and intuitive but also necessary. I relish any opportunity to work with new technologies while obtaining mastery with my other skills. Ultimately, I want to work on bringing inspirational ideas to life. I enjoy building everything from small business sites to IoT interactive apps.",
+    "Born in Korea and bred in New Zealand. I am interested in JAM-stack. I enjoy building apps simple and intuitive but also necessary. I relish any opportunity to work with new technologies while obtaining mastery with my other skills. Ultimately, I want to work on bringing inspirational ideas to life. I enjoy building everything from small business sites to IoT interactive apps.",
   
-  aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+
 
   //   End About Section ---------------------
 
