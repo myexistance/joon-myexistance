@@ -32,7 +32,7 @@ export default {
     {
       title: "Rank", //Project Title - Add Your Project Title Here
       para:
-        "Public toilet finder to help those who are in the urgent.", // Add Your Service Type Here
+        "Public toilet finder to help those who are in the urgent. - Mapbox GL JS, EmailJS", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/myexistance/display-joon/blob/master/src/img/RANK.png?raw=true",
@@ -52,7 +52,7 @@ export default {
     {
       title: "Coffee Finder", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Cafés in Wellington - Vanilla JS", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://github.com/myexistance/CoffeeFinderFinal/blob/master/images/coffee-pattern-desktop.png?raw=true",
