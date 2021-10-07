@@ -35,7 +35,7 @@ export default {
         "Public toilet finder to help those who are in the urgent.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/myexistance/joon-myexistance/blob/main/src/img/RANK.png?raw=true",
+        "https://github.com/myexistance/display-joon/blob/master/src/img/RANK.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://rank2021.herokuapp.com/",
     },
