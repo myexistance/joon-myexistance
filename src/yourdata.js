@@ -45,7 +45,7 @@ export default {
         "React, Context API", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://github.com/myexistance/joon-myexistance/blob/main/src/img/ExpenseTracker.png?raw=true",
+        "https://github.com/myexistance/Joon.portFolio/blob/master/img/ExpenseTracker.png?raw=true",
       //Project URL - Add Your Project Url Here
       url: "https://myexistance.github.io/react-expense-tracker/",
     },
