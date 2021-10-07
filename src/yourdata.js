@@ -3,6 +3,7 @@
 // Social Icon
 import githubIcon from "./images/github.svg"
 import instagramIcon from "./images/instagram.svg"
+import linkedinIcon from "./images/linkedin.svg"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -86,10 +87,10 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/myexistance" },
-    //  {
-    //   img: linkedinIcon,
-    //   url: "https://www.linkedin.com/in/myexistance",
-    // },
+     {
+      img: linkedinIcon,
+      url: "https://www.linkedin.com/in/myexistance",
+    },
     {
       img: instagramIcon,
       url: "https://www.instagram.com/myexistance",
